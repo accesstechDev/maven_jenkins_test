@@ -22,6 +22,8 @@ public class Response {
     }
 
     public void setCode(String code) {
+
         this.code = code;
+
     }
 }
